@@ -1,0 +1,2 @@
+include ':app', ':picasso-2.5.2'
+rootProject.name='Tema 7 Ejemplo 1'
